@@ -1,0 +1,6 @@
+{
+  "name": "Ten Worlds",
+  "description": "A procedural landscape countdown from chaos to calm. Each number (10→1) is an entire low-poly 3D world — neon cities, volcanic ridges, ocean archipelagos, frozen tundra — where the number's shape is hidden in the terrain itself. A mountain range silhouette that forms a \"7\". A river delta that traces a \"3\". A single hill that IS the \"1\". The camera flies through each world, then lifts to a bird's-eye view to reveal the hidden number, before dissolving into the next. Ten worlds. Ten seconds. Complexity melting into simplicity — arriving at one.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
